@@ -5,18 +5,13 @@ Assignment: Introduction to Software Engineering
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
-Questions:
+
 Define Software Engineering:
-Answer:
-Software engineering is a discipline within computer science that involves the systematic application of engineering principles to the development, operation, maintenance, and retirement of software. It focuses on creating high-quality software in a cost-effective and timely manner.
-
-
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
-Answer:
-Software engineering is a comprehensive, disciplined approach to software development that differs from traditional programming by its broader scope, structured methodologies, emphasis on quality and documentation, and focus on the entire software lifecycle. 
-Here is a comparison.
+Software engineering is a discipline within computer science that involves the systematic application of engineering principles to the development, operation, maintenance, and retirement of software. It focuses on creating high-quality software in a cost-effective and timely manner. 
+
 How Does Software Engineering Differ from Traditional Programming?
+Here is a comparison:
 1. Scope and Focus:
 Traditional Programming: Focuses primarily on writing code to solve specific problems or complete tasks. It often involves an individual or a small team working on isolated tasks.
 Software Engineering: Encompasses a broader scope, including requirements analysis, system design, architecture, coding, testing, maintenance, and project management. It involves collaboration among larger teams and considers the entire lifecycle of the software.
@@ -33,6 +28,10 @@ Software Engineering: Requires extensive documentation, including requirements s
 Traditional Programming: Maintenance may be ad-hoc, with updates and bug fixes applied as needed without a formal process.
 Software Engineering: Includes planned maintenance and evolution, with structured processes for handling updates, bug fixes, enhancements, and decommissioning.
 
+
+
+Software Development Life Cycle (SDLC):
+Software engineering Software Development Life Cycle (SDLC):is a comprehensive, disciplined approach to software development that differs from traditional programming by its broader scope, structured methodologies, emphasis on quality and documentation, and focus on the entire software lifecycle.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 ANSWER.
