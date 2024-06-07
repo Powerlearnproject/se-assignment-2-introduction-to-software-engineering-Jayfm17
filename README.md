@@ -7,6 +7,9 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+Answer:
+Software engineering is a discipline within computer science that involves the systematic application of engineering principles to the development, operation, maintenance, and retirement of software. It focuses on creating high-quality software in a cost-effective and timely manner.
+
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
